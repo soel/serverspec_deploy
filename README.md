@@ -45,10 +45,10 @@ mv name_or_ipaddress <IP アドレス>
 ```
   
 1. 設定ファイルの編集
-- サーバ固有情報を設定ファイルに記述する
 ```bash
 vi <IP アドレス>/physical_spec.rb
 ```
+  サーバ固有情報を設定ファイルに記述する  
   
 1. 実行
 ```bash
